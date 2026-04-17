@@ -1,0 +1,6 @@
+manager1,1234,manager
+manager2,5678,manager
+doctor1,1111,doctor
+doctor2,2222,doctor
+doctor3,3333,doctor
+tamim,1234,manager
